@@ -1,0 +1,12 @@
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\bin\Debug\netstandard2.0\PagamentoContexto.Dominio.deps.json
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\bin\Debug\netstandard2.0\PagamentoContexto.Dominio.dll
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\bin\Debug\netstandard2.0\PagamentoContexto.Dominio.pdb
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\obj\Debug\netstandard2.0\PagamentoContexto.Dominio.csprojAssemblyReference.cache
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\obj\Debug\netstandard2.0\PagamentoContexto.Dominio.AssemblyInfoInputs.cache
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\obj\Debug\netstandard2.0\PagamentoContexto.Dominio.AssemblyInfo.cs
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\obj\Debug\netstandard2.0\PagamentoContexto.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\obj\Debug\netstandard2.0\PagamentoContexto.Dominio.dll
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\obj\Debug\netstandard2.0\PagamentoContexto.Dominio.pdb
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\bin\Debug\netstandard2.0\PagamentoContexto.Compartilhado.dll
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\bin\Debug\netstandard2.0\PagamentoContexto.Compartilhado.pdb
+C:\Users\vinie\Documents\Arquivos\Vinicius\Profissional\Cursos\Modelando dominios ricos 2017 - balta io\Pagamento\PagamentoContexto.Dominio\obj\Debug\netstandard2.0\PagamentoContexto.Dominio.csproj.CopyComplete

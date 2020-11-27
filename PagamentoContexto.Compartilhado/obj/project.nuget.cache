@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQn5M5nqbMzOCq1UZZ5sxg2y5aMBkbX5Hrpru4q3AiYVzAXAY/HYUY+bOFeQeyA6zwdZmSSD62+9LWQSQKrchg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinie\\Documents\\Arquivos\\Vinicius\\Profissional\\Cursos\\Modelando dominios ricos 2017 - balta io\\Pagamento\\PagamentoContexto.Compartilhado\\PagamentoContexto.Compartilhado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vinie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
